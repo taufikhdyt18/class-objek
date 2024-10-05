@@ -24,3 +24,6 @@ this.name = name;
 this.gender = gender;
 }
 ```
+
+- Buat Diagram gambar 2 objek Riko Dan Antor
+  
