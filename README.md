@@ -54,6 +54,6 @@ CekSaldo
 
 ![image](sst2/ss4.png)
 
--Output
+- Output
 
 ![image](sst2/ss5.png)
